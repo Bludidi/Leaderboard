@@ -43,7 +43,7 @@ li {
 }
 
 .btn {
-  height: fit-content;
+  height: 30px;
   width: fit-content;
   font-family: 'Comic Neue', cursive;
   font-weight: 600;
