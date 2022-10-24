@@ -17,3 +17,5 @@ scores.forEach((player) => {
 });
 
 scoresData.innerHTML = playerData;
+
+// comment
