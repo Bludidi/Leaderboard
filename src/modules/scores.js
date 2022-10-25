@@ -21,8 +21,7 @@
 const form = document.querySelector('form');
 const refreshBtn = document.getElementById('refresh');
 const scoreTable = document.getElementById('table');
-
-const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/qk2WUFC6s8bpESSfLGKS/scores';
+const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/01GG814YZMJ27VK95N51YN01PY/scores';
 
 const getScores = async () => {
   const response = await fetch(`${url}`);
