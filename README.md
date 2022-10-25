@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Leaderboard
-This App is for storing score for player using API. A user will be able to submit their name and score and this information will be stored until a Leaderboard is refreshed. 
+This App is for storing score for player using API. A user will be able to submit their name and score and this information will be stored and when a Leaderboard is refreshed it show the score stored. 
 
 
 
