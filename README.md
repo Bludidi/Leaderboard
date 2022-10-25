@@ -12,7 +12,7 @@ This App is for storing score for player using API. A user will be able to submi
 - Technologies: GitHub 
 
 ## Live Demo
-### This App has not been deployed yet. 
+#### This App has not been deployed yet. 
 
 
 
