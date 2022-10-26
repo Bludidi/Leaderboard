@@ -81,14 +81,6 @@ ul {
   font-style: normal;
 }
 
-.btn:hover {
-  font-size: 1.04em;
-  background-color: #807a7a;
-  border: 1px solid #fff;
-  color: #fff;
-  box-shadow: 3px 3px 3px #fff;
-}
-
 .scoreHead {
   display: flex;
   gap: 10px;
@@ -110,6 +102,14 @@ li {
   cursor: pointer;
   border-radius: 7px;
   border: none;
+}
+
+.btn:hover {
+  font-size: 1.04em;
+  background-color: #807a7a;
+  border: 1px solid #fff;
+  color: #fff;
+  box-shadow: 3px 3px 3px #fff;
 }
 
 #table {
