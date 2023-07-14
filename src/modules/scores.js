@@ -18,7 +18,7 @@ const refreshScores = () => {
       const player = document.createElement('ul');
       player.innerHTML = `
       <li>${value.user}</li>
-      <li>:&nbsp </li>
+      <li>:&nbsp; </li>
       <li>${value.score}</li>`;
       scoreTable.appendChild(player);
     });

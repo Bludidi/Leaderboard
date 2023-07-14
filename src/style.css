@@ -7,18 +7,18 @@
 
 html {
   font-family: 'Comic Neue', cursive;
-  margin: 0 auto;
-  background-color: rgb(194, 62, 62);
+  background-image: url('/src/assets/lboard.png');
+  background-repeat: repeat;
 }
 
 main {
   width: 60%;
-  padding: 10px;
+  padding: 0.5rem 1rem 5rem 1rem;
   justify-content: center;
-  background-color: #8f2f2f;
-  border-radius: 20px;
-  margin: 0 12em 0 12em;
-  box-shadow: 20px 20px 12px #585555;
+  background-color: #f7f5f51f;
+  border-radius: 10px;
+  margin: 0 auto;
+  border: 0.5px solid #ffffff33;
 }
 
 body {
